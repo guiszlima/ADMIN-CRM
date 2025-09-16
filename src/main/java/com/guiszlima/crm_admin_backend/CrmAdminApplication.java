@@ -1,4 +1,4 @@
-package com.guiszlima.crm_admin;
+package com.guiszlima.crm_admin_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
